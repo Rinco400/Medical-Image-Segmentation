@@ -1,0 +1,10 @@
+numpy
+opencv-python
+Pillow
+tqdm
+albumentations
+matplotlib
+segmentation-models-pytorch
+torchmetrics
+gradio
+
